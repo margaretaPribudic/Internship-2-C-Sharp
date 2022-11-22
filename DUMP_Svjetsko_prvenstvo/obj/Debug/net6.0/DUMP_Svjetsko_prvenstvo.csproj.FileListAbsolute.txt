@@ -1,0 +1,15 @@
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\bin\Debug\net6.0\DUMP_Svjetsko_prvenstvo.exe
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\bin\Debug\net6.0\DUMP_Svjetsko_prvenstvo.deps.json
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\bin\Debug\net6.0\DUMP_Svjetsko_prvenstvo.runtimeconfig.json
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\bin\Debug\net6.0\DUMP_Svjetsko_prvenstvo.dll
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\bin\Debug\net6.0\DUMP_Svjetsko_prvenstvo.pdb
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.csproj.AssemblyReference.cache
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.AssemblyInfoInputs.cache
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.AssemblyInfo.cs
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.dll
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\refint\DUMP_Svjetsko_prvenstvo.dll
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.pdb
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\DUMP_Svjetsko_prvenstvo.genruntimeconfig.cache
+C:\Users\Margareta\Desktop\Margareta\DUMP\DUMP_Svjetsko_prvenstvo\obj\Debug\net6.0\ref\DUMP_Svjetsko_prvenstvo.dll
